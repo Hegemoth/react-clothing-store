@@ -1,4 +1,4 @@
-Clothing store created in React + Vite
+Clothing store with simulated back-end created in React + Vite
 
 Single page application
 
