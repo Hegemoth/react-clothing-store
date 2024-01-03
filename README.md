@@ -12,7 +12,7 @@ Back-end on port 3000
 
 Technologies:
 
-• React
+• React Router
 
 • JavaScript
 
