@@ -1,19 +1,18 @@
-Clothing store with simulated back-end created in React + Vite
+# Clothing store
 
-Single page application
+Single page application with simulated back-end created in React + Vite
 
------------------------------------------
+# Run
 
-Front-end on port 5173
+Run this app in your IDE, then:
 
-Back-end on port 3000
+```
+npm i
+npm run dev
+```
 
------------------------------------------
+Application is available on `localhost:5173`
 
-Technologies:
-
-• React Router
-
-• JavaScript
-
-• CSS Modules
+# Technologies:
+- React Router
+- CSS Modules
